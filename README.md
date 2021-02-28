@@ -2,7 +2,7 @@
 <h3 align="center">A beginner Network Analyst, passionate about technologies and programming.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadsdevolper" alt="jadsdevolper" /> </p>
 
-- 🔭 I’m currently working on **Huawei CLI commmand** <img src="https://github.com/jadsnet/huawei_cli/blob/main/images/655076.png" align="center" width="50" height="35">
+- 🔭 I’m currently working on **Huawei CLI command** <img src="https://github.com/jadsnet/huawei_cli/blob/main/images/655076.png" align="center" width="50" height="35">
 
 - 📫 How to reach me **jdsnrodrigues@gmail.com**
 
